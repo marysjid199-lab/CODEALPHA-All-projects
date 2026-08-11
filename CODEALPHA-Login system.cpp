@@ -1,13 +1,3 @@
-/*
-    TASK 2: Login and Registration System
-    ---------------------------------------
-    - Registration function (username + password)
-    - Validates input and checks for duplicate usernames
-    - Stores credentials in a file (users.txt) - one line per user
-    - Login function reads the file and verifies identity
-    - Success/error messages for both registration and login
-*/
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
