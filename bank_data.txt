@@ -1,0 +1,25 @@
+Customer ID: 1
+Name: Sajid
+Account Number: 1001
+Balance: 100000.00
+Transactions:
+  Deposit: 50000.00
+  Withdrawal: 30000.00
+  Transfer-Out: 20000.00
+---END---
+
+Customer ID: 2
+Name: Abid
+Account Number: 1002
+Balance: 30000.00
+Transactions:
+  Transfer-In: 20000.00
+---END---
+
+Customer ID: 3
+Name: Saad
+Account Number: 1003
+Balance: 200000.00
+Transactions:
+---END---
+
