@@ -1,4 +1,4 @@
-CodeAlpha Internship Projects (C++)
+ Projects (C++)
 
 1. CGPA Calculator — 
 A console-based program that calculates a student's CGPA by converting letter grades into grade points and computing the weighted average based on credit hours.
